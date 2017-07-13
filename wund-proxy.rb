@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 # wund-proxy.rb
 # listens on port 8000 for requests from Ambient Weather ObserverIP
 # Forwards the request to wunderground via HTTPS
