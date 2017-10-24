@@ -12,3 +12,5 @@ The ObserverIP does not support HTTPS and this protects the transmission over th
 ruby wund-proxy.rb
 
 May be run in the background or in a screen
+
+Install firmware version 2.1.9 on the ObserverIP and change the target to the system running wund-proxy.rb.
